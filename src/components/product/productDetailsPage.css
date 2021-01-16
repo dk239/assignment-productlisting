@@ -1,0 +1,24 @@
+.details-containe-outer {
+    text-align: center;
+    padding: 50px;
+}
+
+.details-content {
+    display: flex;
+    padding: 20px;
+}
+
+.image-container {
+    width: 250px;
+    border: 1px solid #adadad;
+}
+
+.details-inner {
+    text-align: left;
+    padding-left: 50px;
+}
+
+.lablelText {
+    font-size: 40px;
+    margin: 15px 0px;
+}
